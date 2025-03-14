@@ -1,8 +1,0 @@
-{
-  "id": "alt1-safecracking",
-  "name": "Safecracking Helper",
-  "version": "1.0",
-  "description": "Ajuda a monitorar XP e cofres arrombados no RuneScape 3",
-  "icon": "icon.png",
-  "app": "index.html"
-}
